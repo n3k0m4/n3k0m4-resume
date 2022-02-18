@@ -2,305 +2,305 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on EL MASDOURI Achraf</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://n3k0m4.github.io/n3k0m4-resume/tags/</link>
     <description>Recent content in Tags on EL MASDOURI Achraf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Feb 2022 19:45:09 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Feb 2022 19:45:09 +0100</lastBuildDate><atom:link href="https://n3k0m4.github.io/n3k0m4-resume/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C</title>
-      <link>http://localhost:1313/tags/c/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/c/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/c/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>http://localhost:1313/tags/docker/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/docker/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/docker/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elasticsearch</title>
-      <link>http://localhost:1313/tags/elasticsearch/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/elasticsearch/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/elasticsearch/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/elasticsearch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ev3-dev</title>
-      <link>http://localhost:1313/tags/ev3-dev/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/ev3-dev/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/ev3-dev/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/ev3-dev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GraphQL</title>
-      <link>http://localhost:1313/tags/graphql/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/graphql/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/graphql/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/graphql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IPSec</title>
-      <link>http://localhost:1313/tags/ipsec/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/ipsec/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/ipsec/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/ipsec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kafka</title>
-      <link>http://localhost:1313/tags/kafka/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/kafka/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/kafka/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/kafka/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kibana</title>
-      <link>http://localhost:1313/tags/kibana/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/kibana/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/kibana/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/kibana/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux kernel</title>
-      <link>http://localhost:1313/tags/linux-kernel/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/linux-kernel/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/linux-kernel/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/linux-kernel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Logstash</title>
-      <link>http://localhost:1313/tags/logstash/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/logstash/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/logstash/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/logstash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PostgreSQL</title>
-      <link>http://localhost:1313/tags/postgresql/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/postgresql/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/postgresql/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/postgresql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/python/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/python/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>React</title>
-      <link>http://localhost:1313/tags/react/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/react/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/react/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/react/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Redis</title>
-      <link>http://localhost:1313/tags/redis/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/redis/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/redis/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/redis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RTOS</title>
-      <link>http://localhost:1313/tags/rtos/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/rtos/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/rtos/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/rtos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Snort</title>
-      <link>http://localhost:1313/tags/snort/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/snort/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/snort/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/snort/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Typescript</title>
-      <link>http://localhost:1313/tags/typescript/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/typescript/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>http://localhost:1313/tags/typescript/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/typescript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JavaScript</title>
-      <link>http://localhost:1313/tags/javascript/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/javascript/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/javascript/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JSON</title>
-      <link>http://localhost:1313/tags/json/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/json/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/json/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/json/</guid>
       <description></description>
     </item>
     
     <item>
       <title>node.js</title>
-      <link>http://localhost:1313/tags/node.js/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/node.js/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/node.js/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/node.js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>REST APIs</title>
-      <link>http://localhost:1313/tags/rest-apis/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/rest-apis/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/rest-apis/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/rest-apis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data science</title>
-      <link>http://localhost:1313/tags/data-science/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/data-science/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/data-science/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Language processing</title>
-      <link>http://localhost:1313/tags/language-processing/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/language-processing/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/language-processing/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/language-processing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NLP</title>
-      <link>http://localhost:1313/tags/nlp/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/nlp/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/nlp/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/nlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>apache</title>
-      <link>http://localhost:1313/tags/apache/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/apache/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/apache/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/apache/</guid>
       <description></description>
     </item>
     
     <item>
       <title>redirect</title>
-      <link>http://localhost:1313/tags/redirect/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/redirect/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/redirect/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/redirect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rewrite</title>
-      <link>http://localhost:1313/tags/rewrite/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/rewrite/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/rewrite/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/rewrite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ssl</title>
-      <link>http://localhost:1313/tags/ssl/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/ssl/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/ssl/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/ssl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web development</title>
-      <link>http://localhost:1313/tags/web-development/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/web-development/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/web-development/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/web-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bamboo</title>
-      <link>http://localhost:1313/tags/bamboo/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/bamboo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/bamboo/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/bamboo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>http://localhost:1313/tags/java/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/java/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jQuery</title>
-      <link>http://localhost:1313/tags/jquery/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/jquery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/jquery/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/jquery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NodeJS/Express</title>
-      <link>http://localhost:1313/tags/nodejs/express/</link>
+      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/nodejs/express/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/nodejs/express/</guid>
+      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/nodejs/express/</guid>
       <description></description>
     </item>
     
