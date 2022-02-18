@@ -1,0 +1,140 @@
+[
+  {
+    "grouping": "Security",
+    "skills": [
+      {
+        "name": "Pentesting",
+        "icon": "https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-hacker-cryptocurrency-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"
+      },
+      {
+        "name": "Honeypots/Honeynets",
+        "icon": "https://img.icons8.com/external-victoruler-flat-victoruler/64/000000/external-honey-farming-victoruler-flat-victoruler.png"
+      },
+      {
+        "name": "Firewalls",
+        "icon": "https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/64/000000/external-firewall-cyber-security-inipagistudio-mixed-inipagistudio.png"
+      },
+      {
+        "name": "IPs/IDs",
+        "icon": "https://img.icons8.com/external-inipagistudio-mixed-inipagistudio/64/000000/external-analysis-testimonial-inipagistudio-mixed-inipagistudio.png"
+      },
+      {
+        "name": "Network",
+        "icon": "https://icongr.am/material/access-point-network.svg?size=128&color=currentColor"
+      },
+      {
+        "name": "Reverse Engineering",
+        "icon": "https://img.icons8.com/external-becris-flat-becris/64/000000/external-engineering-literary-genres-becris-flat-becris.png"
+      }
+    ]
+  },
+  {
+    "grouping": "Programming Languages",
+    "skills": [
+      {
+        "name": "Python",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      },
+      {
+        "name": "Java",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+      },
+      {
+        "name": "C",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+      },
+      {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"
+      },
+      {
+        "name": "Javascript",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      },
+      {
+        "name": "Typescript",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      }
+    ]
+  },
+  {
+    "grouping": "Web developement",
+    "skills": [
+      {
+        "name": "Express",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+      },
+      {
+        "name": "Flask",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
+      },
+      {
+        "name": "React",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      },
+      {
+        "name": "Vue",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+      }
+    ]
+  },
+  {
+    "grouping": "Databases",
+    "skills": [
+      {
+        "name": "MySQL",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+      },
+      {
+        "name": "PostgreSQL",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
+      },
+      {
+        "name": "Redis",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg"
+      },
+      {
+        "name": "MongoDB",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+      }
+    ]
+  },
+  {
+    "grouping": "Containers & Cloud",
+    "skills": [
+      {
+        "name": "Docker",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"
+      },
+      {
+        "name": "Kubernetes",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"
+      },
+      {
+        "name": "Google Cloud",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+      }
+    ]
+  },
+  {
+    "grouping": "Others",
+    "skills": [
+      {
+        "name": "Elasticsearch",
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-elasticsearch-a-search-engine-based-on-the-lucene-library-logo-shadow-tal-revivo.png"
+      },
+      {
+        "name": "Logstash",
+        "icon": "https://img.icons8.com/color/48/000000/logstash.png"
+      },
+      {
+        "name": "Kibana",
+        "icon": "https://img.icons8.com/color/48/000000/kibana.png"
+      },
+      {
+        "name": "git",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+      }
+    ]
+  }
+]

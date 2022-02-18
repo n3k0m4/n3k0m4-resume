@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IPSec on EL MASDOURI Achraf</title>
+    <link>http://localhost:1313/tags/ipsec/</link>
+    <description>Recent content in IPSec on EL MASDOURI Achraf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Feb 2022 19:45:09 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/ipsec/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Securing Webservice with a HoneyPot</title>
+      <link>http://localhost:1313/projects/creations/honeypot/</link>
+      <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
+      
+      <guid>http://localhost:1313/projects/creations/honeypot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

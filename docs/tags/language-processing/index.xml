@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Language processing on EL MASDOURI Achraf</title>
+    <link>http://localhost:1313/tags/language-processing/</link>
+    <description>Recent content in Language processing on EL MASDOURI Achraf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/language-processing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Study on the effectiveness of NLP tools for syntactic analysis of French texts.</title>
+      <link>http://localhost:1313/publications/nlpeffectivenessstudy/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/publications/nlpeffectivenessstudy/</guid>
+      <description>NLP (natural language processing) is the field of artificial intelligence that deals with the processing, analysis and understanding of natural language. It began to emerge and play an indispensable role since the 1950s with its usefulness in document translation, text indexing, and text-like data mining.
+The advancement in the use of NLP tools has followed an exceptional development, from an automatic translator at the beginning to an assistant that structures information into computer-understandable data to eventually a more developed and complex form that began since the 2000s with the help of growth in artiﬁcial intelligence hardware, big data, and deep learning.</description>
+    </item>
+    
+  </channel>
+</rss>
