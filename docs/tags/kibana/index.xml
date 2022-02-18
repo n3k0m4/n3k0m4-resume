@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kibana on EL MASDOURI Achraf</title>
-    <link>https://n3k0m4.github.io/tags/kibana/</link>
+    <link>http://localhost:1313/tags/kibana/</link>
     <description>Recent content in Kibana on EL MASDOURI Achraf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Feb 2022 19:45:09 +0100</lastBuildDate><atom:link href="https://n3k0m4.github.io/tags/kibana/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Feb 2022 19:45:09 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/kibana/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Securing Webservice with a HoneyPot</title>
-      <link>https://n3k0m4.github.io/projects/creations/honeypot/</link>
+      <link>http://localhost:1313/projects/creations/honeypot/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>https://n3k0m4.github.io/projects/creations/honeypot/</guid>
+      <guid>http://localhost:1313/projects/creations/honeypot/</guid>
       <description></description>
     </item>
     
