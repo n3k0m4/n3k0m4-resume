@@ -4,9 +4,9 @@
         "company": "Orange Cyberdefense",
         "summary": [
             "Implementing attacks on edge computing infrastructure.",
-            " Automating the production of Falco rules to detect attacks.",
-            "Technologies used: Kubernetes, Falco, Python ,Google Cloud"
+            "Automating the production of Falco rules to detect attacks."
         ],
+        "stack": "**Technologies used**: Kubernetes, Falco, Python ,Google Cloud",
         "range": "February 2022 - Present"
     },
     {
@@ -14,9 +14,9 @@
         "company": "SAP Labs France",
         "summary": [
             "Creating the first Proof of concept of a TEE-based functional encryption on Nvidia Jetson AGX Xavier.",
-            "Developing several secure applications on top of the Trusty OS following the architecture of the paper ”Iron: Functional Encryption using Intel SGX” by Ben Fisch and Dan Boneh.",
-            "Technologies used : C/C++, Network protocols, Bash, Python"
+            "Developing several secure applications on top of the Trusty OS following the architecture of the paper ”Iron: Functional Encryption using Intel SGX” by Ben Fisch and Dan Boneh."
         ],
+        "stack": "**Technologies used**: C/C++, Network protocols, Bash, Python",
         "range": "April 2021 - October 2021"
     },
     {
@@ -25,9 +25,9 @@
         "summary": [
             "Working as a software developer in an agile team beside a solution architect and few developers .",
             "Developing and Implementing CCFLEX option on 2 PRM applications that generated over 6M€ as a first deal.",
-            "Collaborating daily with international teams to develop and deploy internal SAP technologies before launching them to the market.",
-            "Technologies used : JAVA, JavaScript, SAP Fiori/UI5, HANA, ABAP, JIRA/Git"
+            "Collaborating daily with international teams to develop and deploy internal SAP technologies before launching them to the market."
         ],
+        "stack": "**Technologies used**: JAVA, JavaScript, SAP Fiori/UI5, HANA, ABAP, JIRA/Git",
         "range": "October 2020 - April 2021"
     }
 ]
