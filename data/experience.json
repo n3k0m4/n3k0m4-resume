@@ -17,7 +17,7 @@
             "Developing several secure applications on top of the Trusty OS following the architecture of the paper ”Iron: Functional Encryption using Intel SGX” by Ben Fisch and Dan Boneh.",
             "Technologies used : C/C++, Network protocols, Bash, Python"
         ],
-        "range": "March 2014 - February 2016"
+        "range": "April 2021 - October 2021"
     },
     {
         "role": "Software engineer",
@@ -28,6 +28,6 @@
             "Collaborating daily with international teams to develop and deploy internal SAP technologies before launching them to the market.",
             "Technologies used : JAVA, JavaScript, SAP Fiori/UI5, HANA, ABAP, JIRA/Git"
         ],
-        "range": "February 2013 - March 2014"
+        "range": "October 2020 - April 2021"
     }
 ]
