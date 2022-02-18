@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on EL MASDOURI Achraf</title>
-    <link>https://n3k0m4.github.io/n3k0m4-resume/tags/python/</link>
+    <link>https://n3k0m4.github.io/tags/python/</link>
     <description>Recent content in Python on EL MASDOURI Achraf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Feb 2022 19:45:09 +0100</lastBuildDate><atom:link href="https://n3k0m4.github.io/n3k0m4-resume/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Feb 2022 19:45:09 +0100</lastBuildDate><atom:link href="https://n3k0m4.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Securing Webservice with a HoneyPot</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/projects/creations/honeypot/</link>
+      <link>https://n3k0m4.github.io/projects/creations/honeypot/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/projects/creations/honeypot/</guid>
+      <guid>https://n3k0m4.github.io/projects/creations/honeypot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Binance bot</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/projects/creations/binancebot/</link>
+      <link>https://n3k0m4.github.io/projects/creations/binancebot/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/projects/creations/binancebot/</guid>
+      <guid>https://n3k0m4.github.io/projects/creations/binancebot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Study on the effectiveness of NLP tools for syntactic analysis of French texts.</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/publications/nlpeffectivenessstudy/</link>
+      <link>https://n3k0m4.github.io/publications/nlpeffectivenessstudy/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/publications/nlpeffectivenessstudy/</guid>
+      <guid>https://n3k0m4.github.io/publications/nlpeffectivenessstudy/</guid>
       <description>NLP (natural language processing) is the field of artificial intelligence that deals with the processing, analysis and understanding of natural language. It began to emerge and play an indispensable role since the 1950s with its usefulness in document translation, text indexing, and text-like data mining.
 The advancement in the use of NLP tools has followed an exceptional development, from an automatic translator at the beginning to an assistant that structures information into computer-understandable data to eventually a more developed and complex form that began since the 2000s with the help of growth in artiﬁcial intelligence hardware, big data, and deep learning.</description>
     </item>

@@ -1,5 +1,5 @@
 title = "EL MASDOURI Achraf"
-baseURL = "https://n3k0m4.github.io/n3k0m4-resume/"
+baseURL = "https://n3k0m4.github.io/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true

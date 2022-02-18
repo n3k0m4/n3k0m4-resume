@@ -2,305 +2,305 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on EL MASDOURI Achraf</title>
-    <link>https://n3k0m4.github.io/n3k0m4-resume/tags/</link>
+    <link>https://n3k0m4.github.io/tags/</link>
     <description>Recent content in Tags on EL MASDOURI Achraf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Feb 2022 19:45:09 +0100</lastBuildDate><atom:link href="https://n3k0m4.github.io/n3k0m4-resume/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Feb 2022 19:45:09 +0100</lastBuildDate><atom:link href="https://n3k0m4.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/c/</link>
+      <link>https://n3k0m4.github.io/tags/c/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/c/</guid>
+      <guid>https://n3k0m4.github.io/tags/c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/docker/</link>
+      <link>https://n3k0m4.github.io/tags/docker/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/docker/</guid>
+      <guid>https://n3k0m4.github.io/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elasticsearch</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/elasticsearch/</link>
+      <link>https://n3k0m4.github.io/tags/elasticsearch/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/elasticsearch/</guid>
+      <guid>https://n3k0m4.github.io/tags/elasticsearch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ev3-dev</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/ev3-dev/</link>
+      <link>https://n3k0m4.github.io/tags/ev3-dev/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/ev3-dev/</guid>
+      <guid>https://n3k0m4.github.io/tags/ev3-dev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GraphQL</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/graphql/</link>
+      <link>https://n3k0m4.github.io/tags/graphql/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/graphql/</guid>
+      <guid>https://n3k0m4.github.io/tags/graphql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IPSec</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/ipsec/</link>
+      <link>https://n3k0m4.github.io/tags/ipsec/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/ipsec/</guid>
+      <guid>https://n3k0m4.github.io/tags/ipsec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kafka</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/kafka/</link>
+      <link>https://n3k0m4.github.io/tags/kafka/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/kafka/</guid>
+      <guid>https://n3k0m4.github.io/tags/kafka/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kibana</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/kibana/</link>
+      <link>https://n3k0m4.github.io/tags/kibana/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/kibana/</guid>
+      <guid>https://n3k0m4.github.io/tags/kibana/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux kernel</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/linux-kernel/</link>
+      <link>https://n3k0m4.github.io/tags/linux-kernel/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/linux-kernel/</guid>
+      <guid>https://n3k0m4.github.io/tags/linux-kernel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Logstash</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/logstash/</link>
+      <link>https://n3k0m4.github.io/tags/logstash/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/logstash/</guid>
+      <guid>https://n3k0m4.github.io/tags/logstash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PostgreSQL</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/postgresql/</link>
+      <link>https://n3k0m4.github.io/tags/postgresql/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/postgresql/</guid>
+      <guid>https://n3k0m4.github.io/tags/postgresql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/python/</link>
+      <link>https://n3k0m4.github.io/tags/python/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/python/</guid>
+      <guid>https://n3k0m4.github.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>React</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/react/</link>
+      <link>https://n3k0m4.github.io/tags/react/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/react/</guid>
+      <guid>https://n3k0m4.github.io/tags/react/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Redis</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/redis/</link>
+      <link>https://n3k0m4.github.io/tags/redis/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/redis/</guid>
+      <guid>https://n3k0m4.github.io/tags/redis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RTOS</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/rtos/</link>
+      <link>https://n3k0m4.github.io/tags/rtos/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/rtos/</guid>
+      <guid>https://n3k0m4.github.io/tags/rtos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Snort</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/snort/</link>
+      <link>https://n3k0m4.github.io/tags/snort/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/snort/</guid>
+      <guid>https://n3k0m4.github.io/tags/snort/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Typescript</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/typescript/</link>
+      <link>https://n3k0m4.github.io/tags/typescript/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/typescript/</guid>
+      <guid>https://n3k0m4.github.io/tags/typescript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JavaScript</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/javascript/</link>
+      <link>https://n3k0m4.github.io/tags/javascript/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/javascript/</guid>
+      <guid>https://n3k0m4.github.io/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JSON</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/json/</link>
+      <link>https://n3k0m4.github.io/tags/json/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/json/</guid>
+      <guid>https://n3k0m4.github.io/tags/json/</guid>
       <description></description>
     </item>
     
     <item>
       <title>node.js</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/node.js/</link>
+      <link>https://n3k0m4.github.io/tags/node.js/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/node.js/</guid>
+      <guid>https://n3k0m4.github.io/tags/node.js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>REST APIs</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/rest-apis/</link>
+      <link>https://n3k0m4.github.io/tags/rest-apis/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/rest-apis/</guid>
+      <guid>https://n3k0m4.github.io/tags/rest-apis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data science</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/data-science/</link>
+      <link>https://n3k0m4.github.io/tags/data-science/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/data-science/</guid>
+      <guid>https://n3k0m4.github.io/tags/data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Language processing</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/language-processing/</link>
+      <link>https://n3k0m4.github.io/tags/language-processing/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/language-processing/</guid>
+      <guid>https://n3k0m4.github.io/tags/language-processing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NLP</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/nlp/</link>
+      <link>https://n3k0m4.github.io/tags/nlp/</link>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/nlp/</guid>
+      <guid>https://n3k0m4.github.io/tags/nlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>apache</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/apache/</link>
+      <link>https://n3k0m4.github.io/tags/apache/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/apache/</guid>
+      <guid>https://n3k0m4.github.io/tags/apache/</guid>
       <description></description>
     </item>
     
     <item>
       <title>redirect</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/redirect/</link>
+      <link>https://n3k0m4.github.io/tags/redirect/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/redirect/</guid>
+      <guid>https://n3k0m4.github.io/tags/redirect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rewrite</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/rewrite/</link>
+      <link>https://n3k0m4.github.io/tags/rewrite/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/rewrite/</guid>
+      <guid>https://n3k0m4.github.io/tags/rewrite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ssl</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/ssl/</link>
+      <link>https://n3k0m4.github.io/tags/ssl/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/ssl/</guid>
+      <guid>https://n3k0m4.github.io/tags/ssl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web development</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/web-development/</link>
+      <link>https://n3k0m4.github.io/tags/web-development/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/web-development/</guid>
+      <guid>https://n3k0m4.github.io/tags/web-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bamboo</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/bamboo/</link>
+      <link>https://n3k0m4.github.io/tags/bamboo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/bamboo/</guid>
+      <guid>https://n3k0m4.github.io/tags/bamboo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/java/</link>
+      <link>https://n3k0m4.github.io/tags/java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/java/</guid>
+      <guid>https://n3k0m4.github.io/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jQuery</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/jquery/</link>
+      <link>https://n3k0m4.github.io/tags/jquery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/jquery/</guid>
+      <guid>https://n3k0m4.github.io/tags/jquery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NodeJS/Express</title>
-      <link>https://n3k0m4.github.io/n3k0m4-resume/tags/nodejs/express/</link>
+      <link>https://n3k0m4.github.io/tags/nodejs/express/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://n3k0m4.github.io/n3k0m4-resume/tags/nodejs/express/</guid>
+      <guid>https://n3k0m4.github.io/tags/nodejs/express/</guid>
       <description></description>
     </item>
     
