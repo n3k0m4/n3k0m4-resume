@@ -1,15 +1,41 @@
 [
     {
-        "school":"[Rochester Institute of Technology](https://rit.edu)",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
+        "school": "Eurecom",
+        "degree": "Masters 2 in Cybersecurity",
+        "major": "Cybersecurity",
+        "notes": [
+            "Advanced Networks/Systems security",
+            " Communications security (Protcols analysis)",
+            "OS (architecture of operating systems)",
+            "Mobile security,",
+            "Cloud security"
+        ],
+        "range": "2021 - 2022"
     },
     {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
+        "school": "IMT Atlantique",
+        "degree": "Masters 1 in Cybersecurity",
+        "major": "Cybersecurity",
+        "notes": [
+            "Networks, Security of Networks/Systems and applications",
+            "Risk analysis",
+            "Secure programming",
+            "Object oriented programmaing",
+            "Data structures"
+        ],
+        "range": "2018 - 2021"
+    },
+    {
+        "school": "Budapest University of Technology and Economics",
+        "degree": "Erasmus++",
+        "major": "Computer science",
+        "notes": [
+            "Software Techniques (Advanced C#)",
+            "Theory of Algorithms and System optimisation",
+            "Graph theory",
+            "IT security",
+            "Mobile&Wireless networks"
+        ],
+        "range": "2018 - 2021"
     }
 ]

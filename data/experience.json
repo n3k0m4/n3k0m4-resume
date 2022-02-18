@@ -1,20 +1,33 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
+        "role": "Security Researcher",
+        "company": "Orange Cyberdefense",
+        "summary": [
+            "Implementing attacks on edge computing infrastructure.",
+            " Automating the production of Falco rules to detect attacks.",
+            "Technologies used: Kubernetes, Falco, Python ,Google Cloud"
+        ],
+        "range": "February 2022 - Present"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role": "Security Researcher",
+        "company": "SAP Labs France",
+        "summary": [
+            "Creating the first Proof of concept of a TEE-based functional encryption on Nvidia Jetson AGX Xavier.",
+            "Developing several secure applications on top of the Trusty OS following the architecture of the paper ”Iron: Functional Encryption using Intel SGX” by Ben Fisch and Dan Boneh.",
+            "Technologies used : C/C++, Network protocols, Bash, Python"
+        ],
+        "range": "March 2014 - February 2016"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role": "Software engineer",
+        "company": "SAP Paris",
+        "summary": [
+            "Working as a software developer in an agile team beside a solution architect and few developers .",
+            "Developing and Implementing CCFLEX option on 2 PRM applications that generated over 6M€ as a first deal.",
+            "Collaborating daily with international teams to develop and deploy internal SAP technologies before launching them to the market.",
+            "Technologies used : JAVA, JavaScript, SAP Fiori/UI5, HANA, ABAP, JIRA/Git"
+        ],
+        "range": "February 2013 - March 2014"
     }
 ]
