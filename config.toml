@@ -20,7 +20,7 @@ showExperience = true
 showOpenSource = false 
 showProjects = true
 showPublications = true
-showQr = true
+showQr = false 
 showSkills = true
 
 [params.google]
