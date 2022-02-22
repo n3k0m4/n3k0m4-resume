@@ -20,14 +20,14 @@
             "Networks, Security of Networks/Systems and applications",
             "Risk analysis",
             "Secure programming",
-            "Object oriented programmaing",
+            "Object oriented programming",
             "Data structures"
         ],
         "range": "2018 - 2021"
     },
     {
         "school": "Budapest University of Technology and Economics",
-        "degree": "Erasmus++",
+        "degree": "Exchange program Erasmus+",
         "major": "Computer science",
         "notes": [
             "Software Techniques (Advanced C#)",
@@ -36,6 +36,6 @@
             "IT security",
             "Mobile&Wireless networks"
         ],
-        "range": "2018 - 2021"
+        "range": "2020 - 2021"
     }
 ]
