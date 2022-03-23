@@ -3,10 +3,10 @@
         "role": "Security Researcher",
         "company": "Orange Cyberdefense",
         "summary": [
-            "Implementing attacks on edge computing infrastructure.",
-            "Automating the production of Falco rules to detect attacks."
+            "Implementing attacks on edge computing infrastructure (k8s clusters), and automating the execution of Falco rules to respond to intrusion incidents.",
+            "Studying&Comparing state of the art of architectures composed of Falcosidekick and OpenFaas (Kubeless, Knative, ..)."
         ],
-        "stack": "**Technologies used**: Kubernetes, Falco, Python ,Google Cloud",
+        "stack": "**Technologies used**: Kubernetes, Falco, Python ,Google Cloud platform (GCP), Falco, FalcoSideKick",
         "range": "February 2022 - Present"
     },
     {

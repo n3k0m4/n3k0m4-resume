@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-A loser trying to get better at dealing with computers!
+A Cybersecurity enthusiast trying to get better at dealing with laptops.
